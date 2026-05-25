@@ -11,11 +11,11 @@
 </p>
 
 <p>
-  <a href="#languages-and-tools">Languages & Tools</a>
-  ·
   <a href="#what-im-building">What I'm Building</a>
   ·
   <a href="#weekly-focus">Weekly Focus</a>
+  ·
+  <a href="#languages-and-tools">Languages & Tools</a>
   ·
   <a href="#about-me">About Me</a>
   ·
@@ -23,18 +23,6 @@
 </p>
 
 <br clear="right" />
-
-<h2 align="center" id="languages-and-tools">Languages and Tools</h2>
-
-<p align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=panda-pig.panda-pig&left_text=visitors&left_color=4568DC&right_color=0A0A0A" alt="Visitors" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,vite,tailwind,nodejs,python,git,github,figma,vercel&perline=8" alt="Languages and tools" />
-</p>
-
-<br />
 
 ## What I'm Building
 
@@ -75,22 +63,19 @@ From: 17 May 2026 - To: 24 May 2026
 Frontend        11 hrs 16 mins   ███████████░░░░░░░░░░░   41.15 %
 Data             5 hrs 50 mins   ██████░░░░░░░░░░░░░░░░░   21.29 %
 Markdown         3 hrs 03 mins   ███░░░░░░░░░░░░░░░░░░░░   11.18 %
-Product Notes    2 hrs 09 mins   ██░░░░░░░░░░░░░░░░░░░░░   07.85 %
+Product Design   2 hrs 09 mins   ██░░░░░░░░░░░░░░░░░░░░░   07.85 %
 Automation       1 hr  04 mins   █░░░░░░░░░░░░░░░░░░░░░░   03.95 %
 ```
 
 <br />
 
-## Product Notes
+## Languages and Tools
 
-```txt
-I care about products that are:
-
-- Clear enough to use without explanation
-- Small enough to ship and improve
-- Useful enough to become part of a daily routine
-- Calm in design, but sharp in execution
-```
+<p align="center">
+  <a href="https://github.com/panda-pig">
+    <img width="430" src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,vite,tailwind,nodejs,python,git,github,figma,vercel&perline=8" alt="Languages and tools" />
+  </a>
+</p>
 
 <br />
 
