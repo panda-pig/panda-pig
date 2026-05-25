@@ -55,18 +55,11 @@
 
 ## Weekly Focus
 
+<!--START_SECTION:waka-->
 ```txt
-Manual focus snapshot
-
-Period: 17 May 2026 - 24 May 2026
-
-Area              Time      Progress               Share
-Development       11h 16m   ███████████░░░░░░░░░   41.15%
-Data              05h 50m   ██████░░░░░░░░░░░░░░   21.29%
-Markdown          03h 03m   ███░░░░░░░░░░░░░░░░░   11.18%
-Product Design    02h 09m   ██░░░░░░░░░░░░░░░░░░   07.85%
-Automation        01h 04m   █░░░░░░░░░░░░░░░░░░░   03.95%
+Waiting for WakaTime data...
 ```
+<!--END_SECTION:waka-->
 
 <br />
 
