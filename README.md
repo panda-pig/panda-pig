@@ -71,9 +71,51 @@ Automation       1 hr  04 mins   █░░░░░░░░░░░░░░�
 
 ## Languages and Tools
 
-<p align="center">
+<p>
   <a href="https://github.com/panda-pig">
-    <img width="430" src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,vite,tailwind,nodejs,python,git,github,figma,vercel&perline=8" alt="Languages and tools" />
+    <img src="https://img.shields.io/badge/HTML5-555555?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
+  </a>
+  <a href="https://github.com/panda-pig">
+    <img src="https://img.shields.io/badge/CSS3-555555?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
+  </a>
+  <a href="https://github.com/panda-pig">
+    <img src="https://img.shields.io/badge/JavaScript-555555?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  </a>
+  <a href="https://github.com/panda-pig">
+    <img src="https://img.shields.io/badge/TypeScript-555555?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  </a>
+  <a href="https://github.com/panda-pig">
+    <img src="https://img.shields.io/badge/React-555555?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  </a>
+  <a href="https://github.com/panda-pig">
+    <img src="https://img.shields.io/badge/Next.js-555555?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  </a>
+  <a href="https://github.com/panda-pig">
+    <img src="https://img.shields.io/badge/Vue-555555?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue" />
+  </a>
+  <a href="https://github.com/panda-pig">
+    <img src="https://img.shields.io/badge/Vite-555555?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite" />
+  </a>
+  <a href="https://github.com/panda-pig">
+    <img src="https://img.shields.io/badge/Tailwind-555555?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
+  </a>
+  <a href="https://github.com/panda-pig">
+    <img src="https://img.shields.io/badge/Node.js-555555?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+  </a>
+  <a href="https://github.com/panda-pig">
+    <img src="https://img.shields.io/badge/Python-555555?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+  </a>
+  <a href="https://github.com/panda-pig">
+    <img src="https://img.shields.io/badge/Git-555555?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+  </a>
+  <a href="https://github.com/panda-pig">
+    <img src="https://img.shields.io/badge/GitHub-555555?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://github.com/panda-pig">
+    <img src="https://img.shields.io/badge/Figma-555555?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
+  </a>
+  <a href="https://github.com/panda-pig">
+    <img src="https://img.shields.io/badge/Vercel-555555?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   </a>
 </p>
 
