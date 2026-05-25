@@ -1,28 +1,30 @@
-<img align="right" src="./panda-sticker.png" alt="Panda coding sticker" width="320" />
-
-<h1>Hi, I'm Panda! 👋</h1>
-
-<p>
-  <strong>AI</strong> · <strong>Data</strong> · <strong>Development</strong> · <strong>Product</strong>
-</p>
-
-<p>
-  Building useful tools around AI, data, learning workflows, and product-minded development.
-</p>
-
-<p>
-  <a href="#what-im-building">What I'm Building</a>
-  ·
-  <a href="#weekly-focus">Weekly Focus</a>
-  ·
-  <a href="#languages-and-tools">Languages & Tools</a>
-  ·
-  <a href="#about-me">About Me</a>
-  ·
-  <a href="#connect">Connect</a>
-</p>
-
-<br clear="right" />
+<div align="center">
+  <table>
+    <tr>
+      <td width="58%" valign="middle">
+        <h1>Hi, I'm Panda! 👋</h1>
+        <h3>AI · Data · Development · Product</h3>
+        <p>
+          Building useful tools around AI, data, learning workflows, and product-minded development.
+        </p>
+        <p>
+          <a href="#what-im-building">What I'm Building</a>
+          ·
+          <a href="#weekly-focus">Weekly Focus</a>
+          ·
+          <a href="#languages-and-tools">Languages & Tools</a>
+          ·
+          <a href="#about-me">About Me</a>
+          ·
+          <a href="#connect">Connect</a>
+        </p>
+      </td>
+      <td width="42%" align="center">
+        <img src="./assets/panda-dev.png" width="260" alt="Panda coding mascot" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## What I'm Building
 
