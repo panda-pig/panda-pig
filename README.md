@@ -38,25 +38,30 @@
 
 ## What I'm Building
 
-### Japanese Learning Web App
+### Active Projects
 
-A focused study experience for vocabulary, grammar, review flows, and learning progress.  
-`React` `TypeScript` `Study UX` `AI Assist`
+<p>
+  <a href="https://github.com/panda-pig/jlpt-grammar-cards">
+    <img src="https://img.shields.io/badge/JLPT_Grammar_Cards-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JLPT Grammar Cards" />
+  </a>
+  <a href="https://blog-beta-kohl-92.vercel.app">
+    <img src="https://img.shields.io/badge/Personal_Blog-Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" alt="Personal Blog" />
+  </a>
+</p>
 
-### JLPT Grammar Card Website
+### Exploring
 
-Clean grammar cards designed for quick scanning, example review, search, and long-term retention.  
-`JLPT` `Markdown` `Frontend` `Content System`
-
-### AI Productivity Tools
-
-Small utilities for writing, summarizing, organizing notes, and turning ideas into usable workflows.  
-`AI` `Automation` `Productivity`
-
-### Personal Blog
-
-A place to document frontend notes, Japanese learning methods, AI experiments, and product thinking.  
-`Blog` `Knowledge Base` `Learning Notes`
+<p>
+  <a href="https://github.com/panda-pig?tab=repositories&q=ai">
+    <img src="https://img.shields.io/badge/AI_Tools-Prototype-111827?style=for-the-badge&logo=openai&logoColor=white" alt="AI Tools" />
+  </a>
+  <a href="https://github.com/panda-pig?tab=repositories&q=data">
+    <img src="https://img.shields.io/badge/Data_Tools-Learning-0A66C2?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Tools" />
+  </a>
+  <a href="https://github.com/panda-pig?tab=repositories&q=productivity">
+    <img src="https://img.shields.io/badge/Productivity_Tools-Ideas-22C55E?style=for-the-badge&logo=notion&logoColor=white" alt="Productivity Tools" />
+  </a>
+</p>
 
 <br />
 
