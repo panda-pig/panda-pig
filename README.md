@@ -56,9 +56,11 @@
 ## Weekly Focus
 
 <!--START_SECTION:waka-->
+
 ```txt
-Waiting for WakaTime data...
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 
 <br />
