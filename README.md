@@ -7,7 +7,7 @@
 </p>
 
 <p>
-  Building useful tools around AI, data, learning workflows, and product-minded frontend development.
+  Building useful tools around AI, data, learning workflows, and product-minded development.
 </p>
 
 <p>
