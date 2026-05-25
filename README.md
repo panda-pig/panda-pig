@@ -56,15 +56,16 @@
 ## Weekly Focus
 
 ```txt
-This week I spent my time on
+Manual focus snapshot
 
-From: 17 May 2026 - To: 24 May 2026
+Period: 17 May 2026 - 24 May 2026
 
-Frontend        11 hrs 16 mins   ███████████░░░░░░░░░░░   41.15 %
-Data             5 hrs 50 mins   ██████░░░░░░░░░░░░░░░░░   21.29 %
-Markdown         3 hrs 03 mins   ███░░░░░░░░░░░░░░░░░░░░   11.18 %
-Product Design   2 hrs 09 mins   ██░░░░░░░░░░░░░░░░░░░░░   07.85 %
-Automation       1 hr  04 mins   █░░░░░░░░░░░░░░░░░░░░░░   03.95 %
+Area              Time      Progress               Share
+Development       11h 16m   ███████████░░░░░░░░░   41.15%
+Data              05h 50m   ██████░░░░░░░░░░░░░░   21.29%
+Markdown          03h 03m   ███░░░░░░░░░░░░░░░░░   11.18%
+Product Design    02h 09m   ██░░░░░░░░░░░░░░░░░░   07.85%
+Automation        01h 04m   █░░░░░░░░░░░░░░░░░░░   03.95%
 ```
 
 <br />
