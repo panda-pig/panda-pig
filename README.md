@@ -8,12 +8,6 @@
   <strong>AI</strong> · <strong>Data</strong> · <strong>Development</strong> · <strong>Product</strong>
 </p>
 
-<p align="center">
-  <strong>English</strong>
-  ·
-  <a href="./README.zh-CN.md">中文</a>
-</p>
-
 <br />
 
 <p align="center">
@@ -21,7 +15,7 @@
   ·
   <a href="#what-im-building">What I'm Building</a>
   ·
-  <a href="#learning-map">Learning Map</a>
+  <a href="#weekly-focus">Weekly Focus</a>
   ·
   <a href="#about-me">About Me</a>
   ·
@@ -30,17 +24,11 @@
 
 <br />
 
-<table width="100%">
-  <tr>
-    <td width="25%"></td>
-    <td width="50%" align="center">
-      <h2 id="languages-and-tools">Languages and Tools</h2>
-    </td>
-    <td width="25%" align="right">
-      <img src="https://visitor-badge.laobi.icu/badge?page_id=panda-pig.panda-pig&left_text=visitors&left_color=4568DC&right_color=0A0A0A" alt="Visitors" />
-    </td>
-  </tr>
-</table>
+<h2 align="center" id="languages-and-tools">Languages and Tools</h2>
+
+<p align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=panda-pig.panda-pig&left_text=visitors&left_color=4568DC&right_color=0A0A0A" alt="Visitors" />
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,vite,tailwind,nodejs,python,git,github,figma,vercel&perline=8" alt="Languages and tools" />
@@ -50,47 +38,41 @@
 
 ## What I'm Building
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>Japanese Learning Web App</h3>
-      <p>A focused study experience for vocabulary, grammar, review flows, and learning progress.</p>
-      <p><code>React</code> <code>TypeScript</code> <code>Study UX</code> <code>AI Assist</code></p>
-    </td>
-    <td width="50%">
-      <h3>JLPT Grammar Card Website</h3>
-      <p>Clean grammar cards designed for quick scanning, example review, search, and long-term retention.</p>
-      <p><code>JLPT</code> <code>Markdown</code> <code>Frontend</code> <code>Content System</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>AI Productivity Tools</h3>
-      <p>Small utilities for writing, summarizing, organizing notes, and turning ideas into usable workflows.</p>
-      <p><code>AI</code> <code>Automation</code> <code>Productivity</code></p>
-    </td>
-    <td width="50%">
-      <h3>Personal Blog</h3>
-      <p>A place to document frontend notes, Japanese learning methods, AI experiments, and product thinking.</p>
-      <p><code>Blog</code> <code>Knowledge Base</code> <code>Learning Notes</code></p>
-    </td>
-  </tr>
-</table>
+### Japanese Learning Web App
+
+A focused study experience for vocabulary, grammar, review flows, and learning progress.  
+`React` `TypeScript` `Study UX` `AI Assist`
+
+### JLPT Grammar Card Website
+
+Clean grammar cards designed for quick scanning, example review, search, and long-term retention.  
+`JLPT` `Markdown` `Frontend` `Content System`
+
+### AI Productivity Tools
+
+Small utilities for writing, summarizing, organizing notes, and turning ideas into usable workflows.  
+`AI` `Automation` `Productivity`
+
+### Personal Blog
+
+A place to document frontend notes, Japanese learning methods, AI experiments, and product thinking.  
+`Blog` `Knowledge Base` `Learning Notes`
 
 <br />
 
-## Learning Map
+## Weekly Focus
 
-<div align="center">
+```txt
+This week I spent my time on
 
-| Area | Currently Exploring | Goal |
-|---|---|---|
-| Frontend | React, TypeScript, Next.js, Tailwind CSS | Build polished and reliable web apps |
-| Japanese | JLPT grammar, vocabulary systems, reading habits | Make learning more structured and repeatable |
-| AI | Prompt design, AI-assisted writing, workflow tools | Turn AI into practical product features |
-| Product | UX details, content structure, lightweight systems | Ship tools that feel simple and useful |
+From: 17 May 2026 - To: 24 May 2026
 
-</div>
+Frontend        11 hrs 16 mins   ███████████░░░░░░░░░░░   41.15 %
+Data             5 hrs 50 mins   ██████░░░░░░░░░░░░░░░░░   21.29 %
+Markdown         3 hrs 03 mins   ███░░░░░░░░░░░░░░░░░░░░   11.18 %
+Product Notes    2 hrs 09 mins   ██░░░░░░░░░░░░░░░░░░░░░   07.85 %
+Automation       1 hr  04 mins   █░░░░░░░░░░░░░░░░░░░░░░   03.95 %
+```
 
 <br />
 
