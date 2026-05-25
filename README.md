@@ -1,16 +1,16 @@
-<p align="center">
-  <img src="./banner.png" alt="AI x Data x Development" width="100%" />
-</p>
+<img align="right" src="./panda-sticker.png" alt="Panda coding sticker" width="320" />
 
-<h1 align="center">Hi, I'm Panda! 👋</h1>
+<h1>Hi, I'm Panda! 👋</h1>
 
-<p align="center">
+<p>
   <strong>AI</strong> · <strong>Data</strong> · <strong>Development</strong> · <strong>Product</strong>
 </p>
 
-<br />
+<p>
+  Building useful tools around AI, data, learning workflows, and product-minded frontend development.
+</p>
 
-<p align="center">
+<p>
   <a href="#languages-and-tools">Languages & Tools</a>
   ·
   <a href="#what-im-building">What I'm Building</a>
@@ -22,7 +22,7 @@
   <a href="#connect">Connect</a>
 </p>
 
-<br />
+<br clear="right" />
 
 <h2 align="center" id="languages-and-tools">Languages and Tools</h2>
 
