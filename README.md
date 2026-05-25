@@ -116,13 +116,3 @@ Outside of work and study, I enjoy models, good food, and planning the next smal
     <img src="https://img.shields.io/badge/Blog-Coming_Soon-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Personal blog" />
   </a>
 </p>
-
-<br />
-
-<p align="center">
-  <sub>No private phone number, address, or personal email is shared here.</sub>
-</p>
-
-<p align="center">
-  <strong>Learning deeply. Building quietly. Shipping thoughtfully.</strong>
-</p>
