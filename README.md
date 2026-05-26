@@ -18,7 +18,7 @@ and product-minded development.
   <a href="#connect">Connect</a>
 </p>
 
-<br clear="right" />
+<br clear="right"/>
 
 ## What I'm Building
 
