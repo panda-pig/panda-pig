@@ -1,10 +1,9 @@
-<img align="right" src="./assets/panda-dev.png" width="300" hspace="18" alt="Panda coding mascot" />
+<img align="right" src="./assets/panda-dev.png" width="260" hspace="14" alt="Panda coding mascot" />
 
 <p>
-  <big><big><big><strong>Hi, I'm Panda! 👋</strong></big></big></big>
+  <strong><font size="7"><big>Hi, I'm Panda! 👋</big></font></strong>
   <br />
   <strong><font size="5">AI · Data · Development · Product</font></strong>
-  <br />
   <br />
   <font size="4">Building useful tools around AI, data, learning workflows,<br />and product-minded development.</font>
 </p>
@@ -50,9 +49,9 @@
   </a>
 </p>
 
-<br />
-
 ## Weekly Focus
+
+<sub><!--START_SECTION:waka-range-->May 19 - May 26, 2026<!--END_SECTION:waka-range--></sub>
 
 <!--START_SECTION:waka-->
 
@@ -65,8 +64,6 @@ CSS          1 hr 7 mins           █▒░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
-<br />
 
 ## Languages and Tools
 
@@ -118,8 +115,6 @@ CSS          1 hr 7 mins           █▒░░░░░░░░░░░░░
   </a>
 </p>
 
-<br />
-
 ## About Me
 
 I am a growing learner and builder interested in the intersection of AI, data, and product design.  
@@ -130,8 +125,6 @@ My current direction is simple: build useful tools, document the process, and im
 
 Outside of work and study, I enjoy models, good food, and planning the next small adventure.
 
-<br />
-
 ## Connect
 
 <p align="center">
@@ -139,6 +132,6 @@ Outside of work and study, I enjoy models, good food, and planning the next smal
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
   </a>
   <a href="https://blog-beta-kohl-92.vercel.app">
-    <img src="https://img.shields.io/badge/Blog-Coming_Soon-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Personal blog" />
+    <img src="https://img.shields.io/badge/Read_Blog-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Read blog" />
   </a>
 </p>
