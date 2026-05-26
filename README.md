@@ -1,10 +1,10 @@
 <img align="right" src="./assets/panda-dev.png" width="300" hspace="28" vspace="12" alt="Panda coding mascot" />
 
-<p>
-  <strong style="font-size: 42px;">Hi, I'm Panda! 👋</strong>
-</p>
+<h3>
+  <strong>Hi, I'm Panda! 👋</strong>
+</h3>
 
-<h3>AI · Data · Development · Product</h3>
+<h4>AI · Data · Development · Product</h4>
 
 Building useful tools around AI, data, learning workflows,<br/>
 and product-minded development.
