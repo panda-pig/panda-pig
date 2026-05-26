@@ -1,8 +1,8 @@
 <img align="right" src="./assets/panda-dev.png" width="300" hspace="24" vspace="12" alt="Panda coding mascot" />
 
-<h1>Hi, I'm Panda! 👋</h1>
+<h3><big><big><big>Hi, I'm Panda! 👋</big></big></big></h3>
 
-### AI · Data · Development · Product
+<p><strong><big>AI · Data · Development · Product</big></strong></p>
 
 Building useful tools around AI, data, learning workflows,<br />
 and product-minded development.
@@ -10,7 +10,7 @@ and product-minded development.
 <p>
   <a href="#what-im-building">What I'm Building</a>
   ·
-  <a href="#weekly-focus">Weekly Focus</a>
+  <a href="#7-day-focus">7-Day Focus</a>
   ·
   <a href="#languages-and-tools">Languages & Tools</a>
   ·
@@ -48,9 +48,7 @@ and product-minded development.
   </a>
 </p>
 
-## Weekly Focus
-
-<sub><!--START_SECTION:waka-range-->May 19 - May 26, 2026<!--END_SECTION:waka-range--></sub>
+## 7-Day Focus
 
 <!--START_SECTION:waka-->
 
