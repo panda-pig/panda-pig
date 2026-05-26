@@ -31,6 +31,9 @@ and product-minded development.
   <a href="https://blog-beta-kohl-92.vercel.app">
     <img src="https://img.shields.io/badge/Personal_Blog-Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" alt="Personal Blog" />
   </a>
+  <a href="https://github.com/panda-pig/japan-career-change-skill">
+    <img src="https://img.shields.io/badge/Career_Skill_Notes-Roadmap-555555?style=for-the-badge&logo=markdown&logoColor=white" alt="Career Skill Notes" />
+  </a>
 </p>
 
 <p>
@@ -67,37 +70,22 @@ CSS          1 hr 7 mins           █▒░░░░░░░░░░░░░
 
 <p>
   <a href="https://github.com/panda-pig">
-    <img src="https://img.shields.io/badge/HTML5-555555?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
-  </a>
-  <a href="https://github.com/panda-pig">
-    <img src="https://img.shields.io/badge/CSS3-555555?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
-  </a>
-  <a href="https://github.com/panda-pig">
     <img src="https://img.shields.io/badge/JavaScript-555555?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   </a>
   <a href="https://github.com/panda-pig">
     <img src="https://img.shields.io/badge/TypeScript-555555?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
   </a>
   <a href="https://github.com/panda-pig">
+    <img src="https://img.shields.io/badge/Astro-555555?style=for-the-badge&logo=astro&logoColor=FF5D01" alt="Astro" />
+  </a>
+  <a href="https://github.com/panda-pig">
     <img src="https://img.shields.io/badge/React-555555?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   </a>
   <a href="https://github.com/panda-pig">
-    <img src="https://img.shields.io/badge/Next.js-555555?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  </a>
-  <a href="https://github.com/panda-pig">
-    <img src="https://img.shields.io/badge/Vue-555555?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue" />
-  </a>
-  <a href="https://github.com/panda-pig">
-    <img src="https://img.shields.io/badge/Vite-555555?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite" />
-  </a>
-  <a href="https://github.com/panda-pig">
-    <img src="https://img.shields.io/badge/Tailwind-555555?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
-  </a>
-  <a href="https://github.com/panda-pig">
-    <img src="https://img.shields.io/badge/Node.js-555555?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
-  </a>
-  <a href="https://github.com/panda-pig">
     <img src="https://img.shields.io/badge/Python-555555?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+  </a>
+  <a href="https://github.com/panda-pig">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-555555?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
   </a>
   <a href="https://github.com/panda-pig">
     <img src="https://img.shields.io/badge/Git-555555?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
@@ -106,10 +94,13 @@ CSS          1 hr 7 mins           █▒░░░░░░░░░░░░░
     <img src="https://img.shields.io/badge/GitHub-555555?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://github.com/panda-pig">
-    <img src="https://img.shields.io/badge/Figma-555555?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
+    <img src="https://img.shields.io/badge/Vercel-555555?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   </a>
   <a href="https://github.com/panda-pig">
-    <img src="https://img.shields.io/badge/Vercel-555555?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+    <img src="https://img.shields.io/badge/HTML5-555555?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
+  </a>
+  <a href="https://github.com/panda-pig">
+    <img src="https://img.shields.io/badge/CSS3-555555?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
   </a>
 </p>
 
