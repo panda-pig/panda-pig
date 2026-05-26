@@ -114,17 +114,15 @@ CSS          1 hr 7 mins           █▒░░░░░░░░░░░░░
 </p>
 
 ## About Me
-
 I am a growing learner and builder interested in the intersection of AI, data, and product design.  
 This profile is a small window into what I am learning, what I am building, and how my projects are taking shape.
 
 I enjoy solving messy data problems and turning ideas into small tools that are actually usable.  
 My current direction is simple: build useful tools, document the process, and improve one project at a time.
 
-Outside of work and study, I enjoy models, good food, and planning the next small adventure.
+Outside of work and study, I enjoy collecting figures, discovering good food, and planning my next small adventure.
 
 ## Connect
-
 <p align="center">
   <a href="https://github.com/panda-pig">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
