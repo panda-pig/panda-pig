@@ -22,9 +22,9 @@ and product-minded development.
 
 ## What I'm Building
 
-### Active Projects
-
 <p>
+  <strong>Active Projects</strong>
+  <br />
   <a href="https://github.com/panda-pig/jlpt-grammar-cards">
     <img src="https://img.shields.io/badge/JLPT_Grammar_Cards-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JLPT Grammar Cards" />
   </a>
@@ -33,9 +33,9 @@ and product-minded development.
   </a>
 </p>
 
-### Exploring
-
 <p>
+  <strong>Exploring</strong>
+  <br />
   <a href="https://github.com/panda-pig?tab=repositories&q=ai">
     <img src="https://img.shields.io/badge/AI_Tools-Prototype-111827?style=for-the-badge&logo=openai&logoColor=white" alt="AI Tools" />
   </a>
