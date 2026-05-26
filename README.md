@@ -1,12 +1,11 @@
-<img align="right" src="./assets/panda-dev.png" width="260" hspace="14" alt="Panda coding mascot" />
+<img align="right" src="./assets/panda-dev.png" width="250" hspace="16" vspace="20" alt="Panda coding mascot" />
 
-<p>
-  <strong><font size="7"><big>Hi, I'm Panda! 👋</big></font></strong>
-  <br />
-  <strong><font size="5">AI · Data · Development · Product</font></strong>
-  <br />
-  <font size="4">Building useful tools around AI, data, learning workflows,<br />and product-minded development.</font>
-</p>
+<h1>Hi, I'm Panda! 👋</h1>
+
+### AI · Data · Development · Product
+
+Building useful tools around AI, data, learning workflows,<br />
+and product-minded development.
 
 <p>
   <a href="#what-im-building">What I'm Building</a>
