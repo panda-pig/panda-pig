@@ -1,6 +1,6 @@
 <img align="right" src="./assets/panda-dev.png" width="300" hspace="24" vspace="12" alt="Panda coding mascot" />
 
-<h3><big><big><big>Hi, I'm Panda! 👋</big></big></big></h3>
+# Hi, I'm Panda! 👋
 
 <p><strong><big>AI · Data · Development · Product</big></strong></p>
 
