@@ -52,6 +52,8 @@ and product-minded development.
 <!--START_SECTION:waka-->
 
 ```txt
+From: 18 May 2026 - To: 25 May 2026
+
 Astro        7 hrs 58 mins         █████████▓░░░░░░░░░░░░░░░   38.07 %
 TypeScript   5 hrs 16 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.17 %
 JavaScript   2 hrs 36 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.46 %
