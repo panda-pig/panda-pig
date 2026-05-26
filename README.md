@@ -1,4 +1,4 @@
-<img align="right" src="./assets/panda-dev.png" width="250" hspace="16" vspace="20" alt="Panda coding mascot" />
+<img align="right" src="./assets/panda-dev.png" width="250" hspace="16" vspace="18" alt="Panda coding mascot" />
 
 <h3>
   <strong>Hi, I'm Panda! 👋</strong>
