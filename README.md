@@ -1,9 +1,7 @@
 <img align="right" src="./assets/panda-dev.png" width="300" hspace="28" vspace="12" alt="Panda coding mascot" />
 
 <p>
-  <strong>
-    <font size="7">Hi, I'm Panda! 👋</font>
-  </strong>
+  <strong style="font-size: 42px;">Hi, I'm Panda! 👋</strong>
 </p>
 
 <h3>AI · Data · Development · Product</h3>
