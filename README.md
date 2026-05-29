@@ -55,13 +55,13 @@ and product-minded development.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 May 2026 - To: 27 May 2026
+From: 21 May 2026 - To: 28 May 2026
 
-Astro        6 hrs 21 mins         █████████▓░░░░░░░░░░░░░░░   38.84 %
-TypeScript   2 hrs 56 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.95 %
-Markdown     2 hrs 52 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.52 %
-JavaScript   1 hr 56 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.83 %
-YAML         43 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
+Astro        4 hrs 33 mins         ███████▒░░░░░░░░░░░░░░░░░   28.75 %
+Markdown     3 hrs 36 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.76 %
+TypeScript   3 hrs 29 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.98 %
+JavaScript   1 hr 21 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 %
+YAML         43 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
 ```
 
 <!--END_SECTION:waka-->
