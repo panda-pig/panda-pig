@@ -55,13 +55,13 @@ and product-minded development.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 May 2026 - To: 03 June 2026
+From: 29 May 2026 - To: 05 June 2026
 
-TypeScript   1 hr 26 mins          █████████▓░░░░░░░░░░░░░░░   38.32 %
-Markdown     53 mins               ██████░░░░░░░░░░░░░░░░░░░   23.81 %
-CSS          27 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.33 %
-JSON         24 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.07 %
-Other        21 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.62 %
+Markdown     6 hrs                 ██████████▒░░░░░░░░░░░░░░   41.60 %
+TypeScript   3 hrs 20 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.09 %
+Astro        1 hr 36 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.11 %
+HTML         1 hr 22 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.47 %
+JavaScript   1 hr 19 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.18 %
 ```
 
 <!--END_SECTION:waka-->
