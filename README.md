@@ -25,7 +25,7 @@ and product-minded development.
 <p>
   <strong>Active Projects</strong>
   <br />
-  <a href="https://github.com/panda-pig/jlpt-grammar-cards">
+  <a href="https://jlpt-grammar-cards.com/">
     <img src="https://img.shields.io/badge/JLPT_Grammar_Cards-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JLPT Grammar Cards" />
   </a>
   <a href="https://panda-blog.com/">
