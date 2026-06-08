@@ -28,7 +28,7 @@ and product-minded development.
   <a href="https://github.com/panda-pig/jlpt-grammar-cards">
     <img src="https://img.shields.io/badge/JLPT_Grammar_Cards-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JLPT Grammar Cards" />
   </a>
-  <a href="https://blog-beta-kohl-92.vercel.app">
+  <a href="https://panda-blog.com/">
     <img src="https://img.shields.io/badge/Personal_Blog-Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" alt="Personal Blog" />
   </a>
   <a href="https://github.com/panda-pig/japan-career-change-skill">
@@ -118,7 +118,7 @@ Outside of work and study, I enjoy collecting figures, discovering good food, an
   <a href="https://github.com/panda-pig">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
   </a>
-  <a href="https://blog-beta-kohl-92.vercel.app">
+  <a href="https://panda-blog.com/">
     <img src="https://img.shields.io/badge/Read_Blog-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Read blog" />
   </a>
 </p>
