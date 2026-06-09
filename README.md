@@ -57,7 +57,6 @@ and product-minded development.
 ```txt
 From: 01 June 2026 - To: 08 June 2026
 
-Markdown     5 hrs 7 mins          █████████▓░░░░░░░░░░░░░░░   38.36 %
 TypeScript   3 hrs 13 mins         ██████░░░░░░░░░░░░░░░░░░░   24.07 %
 Astro        1 hr 30 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.26 %
 HTML         1 hr 22 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.25 %
