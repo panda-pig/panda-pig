@@ -25,28 +25,31 @@ and product-minded development.
 <p>
   <strong>Active Projects</strong>
   <br />
-  <a href="https://jlpt-grammar-cards.com/">
-    <img src="https://img.shields.io/badge/JLPT_Grammar_Cards-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JLPT Grammar Cards" />
+  <a href="https://github.com/panda-pig/Tokyo-Yokohama-Rental-Intelligence-Dashboard">
+    <img src="https://img.shields.io/badge/Rental_Intelligence-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Rental Intelligence Dashboard" />
+  </a>
+  <a href="https://jlpt-sprint-desk.vercel.app">
+    <img src="https://img.shields.io/badge/JLPT_Sprint_Desk-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="JLPT Sprint Desk" />
   </a>
   <a href="https://panda-blog.com/">
     <img src="https://img.shields.io/badge/Personal_Blog-Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" alt="Personal Blog" />
   </a>
-  <a href="https://github.com/panda-pig/japan-career-change-skill">
-    <img src="https://img.shields.io/badge/Career_Skill_Notes-Roadmap-555555?style=for-the-badge&logo=markdown&logoColor=white" alt="Career Skill Notes" />
+  <a href="https://github.com/panda-pig/Figure-Collection-Price-Dashboard">
+    <img src="https://img.shields.io/badge/Figure_Price_Dashboard-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="Figure Price Dashboard" />
   </a>
 </p>
 
 <p>
   <strong>Exploring</strong>
   <br />
-  <a href="https://github.com/panda-pig?tab=repositories&q=ai">
-    <img src="https://img.shields.io/badge/AI_Tools-Prototype-111827?style=for-the-badge&logo=openai&logoColor=white" alt="AI Tools" />
+  <a href="https://github.com/panda-pig/jlpt-grammar-cards">
+    <img src="https://img.shields.io/badge/JLPT_Grammar_Cards-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="JLPT Grammar Cards" />
   </a>
   <a href="https://github.com/panda-pig?tab=repositories&q=data">
-    <img src="https://img.shields.io/badge/Data_Tools-Learning-0A66C2?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Tools" />
+    <img src="https://img.shields.io/badge/Data_Dashboards-Building-0A66C2?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Dashboards" />
   </a>
-  <a href="https://github.com/panda-pig?tab=repositories&q=productivity">
-    <img src="https://img.shields.io/badge/Productivity_Tools-Ideas-22C55E?style=for-the-badge&logo=notion&logoColor=white" alt="Productivity Tools" />
+  <a href="https://github.com/panda-pig?tab=repositories&q=ai">
+    <img src="https://img.shields.io/badge/AI_Tools-Prototype-111827?style=for-the-badge&logo=openai&logoColor=white" alt="AI Tools" />
   </a>
 </p>
 
@@ -72,22 +75,31 @@ Git Config   23 mins               ▓░░░░░░░░░░░░░░
 
 <p>
   <a href="https://github.com/panda-pig">
-    <img src="https://img.shields.io/badge/JavaScript-555555?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/Python-555555?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
   </a>
   <a href="https://github.com/panda-pig">
     <img src="https://img.shields.io/badge/TypeScript-555555?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
   </a>
   <a href="https://github.com/panda-pig">
+    <img src="https://img.shields.io/badge/JavaScript-555555?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  </a>
+  <a href="https://github.com/panda-pig">
     <img src="https://img.shields.io/badge/Astro-555555?style=for-the-badge&logo=astro&logoColor=FF5D01" alt="Astro" />
+  </a>
+  <a href="https://github.com/panda-pig">
+    <img src="https://img.shields.io/badge/Flask-555555?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   </a>
   <a href="https://github.com/panda-pig">
     <img src="https://img.shields.io/badge/React-555555?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   </a>
   <a href="https://github.com/panda-pig">
-    <img src="https://img.shields.io/badge/Python-555555?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-555555?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
   </a>
   <a href="https://github.com/panda-pig">
-    <img src="https://img.shields.io/badge/Tailwind_CSS-555555?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
+    <img src="https://img.shields.io/badge/HTML5-555555?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
+  </a>
+  <a href="https://github.com/panda-pig">
+    <img src="https://img.shields.io/badge/CSS3-555555?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
   </a>
   <a href="https://github.com/panda-pig">
     <img src="https://img.shields.io/badge/Git-555555?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
@@ -97,12 +109,6 @@ Git Config   23 mins               ▓░░░░░░░░░░░░░░
   </a>
   <a href="https://github.com/panda-pig">
     <img src="https://img.shields.io/badge/Vercel-555555?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  </a>
-  <a href="https://github.com/panda-pig">
-    <img src="https://img.shields.io/badge/HTML5-555555?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
-  </a>
-  <a href="https://github.com/panda-pig">
-    <img src="https://img.shields.io/badge/CSS3-555555?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
   </a>
 </p>
 
