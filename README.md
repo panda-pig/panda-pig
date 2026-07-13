@@ -58,15 +58,15 @@ and product-minded development.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 July 2026 - To: 11 July 2026
+From: 05 July 2026 - To: 12 July 2026
 
-TypeScript   3 hrs 40 mins         ████████▓░░░░░░░░░░░░░░░░   34.54 %
-Python       3 hrs 2 mins          ███████░░░░░░░░░░░░░░░░░░   28.58 %
-Other        55 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.75 %
-JavaScript   51 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 %
-JSON         39 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
-Git Config   22 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
-HTML         7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+TypeScript   3 hrs 37 mins         ████████▒░░░░░░░░░░░░░░░░   32.76 %
+Python       3 hrs 2 mins          ███████░░░░░░░░░░░░░░░░░░   27.57 %
+JavaScript   56 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 %
+Other        55 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 %
+JSON         39 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.90 %
+HTML         30 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
+Git Config   22 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
 ```
 
 <!--END_SECTION:waka-->
