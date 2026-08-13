@@ -58,15 +58,16 @@ and product-minded development.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 August 2026 - To: 11 August 2026
+From: 05 August 2026 - To: 12 August 2026
 
-JavaScript   6 hrs                 ███████████░░░░░░░░░░░░░░   44.60 %
-HTML         2 hrs 4 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.38 %
-Python       1 hr 41 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.54 %
-CSS          1 hr 6 mins           ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 %
-TypeScript   1 hr 4 mins           ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 %
-Other        31 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
-Astro        7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+JavaScript   3 hrs 29 mins         ███████▓░░░░░░░░░░░░░░░░░   31.29 %
+Python       2 hrs 51 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.49 %
+TypeScript   1 hr 41 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.06 %
+HTML         1 hr 7 mins           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.01 %
+Other        49 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 %
+CSS          39 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.85 %
+JSON         16 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
+YAML         1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->
