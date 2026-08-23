@@ -58,15 +58,15 @@ and product-minded development.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 August 2026 - To: 21 August 2026
+From: 15 August 2026 - To: 22 August 2026
 
-TypeScript   2 hrs 50 mins         ██████░░░░░░░░░░░░░░░░░░░   23.69 %
-JavaScript   2 hrs 38 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.02 %
-Python       1 hr 53 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.78 %
-Other        1 hr 32 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.86 %
-Astro        40 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
-JSON         35 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
-TOML         18 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+JavaScript   2 hrs 38 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.42 %
+Python       1 hr 51 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.95 %
+TypeScript   1 hr 36 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.54 %
+Other        1 hr 33 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.03 %
+JSON         35 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
+Astro        25 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
+TOML         18 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
 ```
 
 <!--END_SECTION:waka-->
