@@ -58,15 +58,15 @@ and product-minded development.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 September 2026 - To: 08 September 2026
+From: 02 September 2026 - To: 09 September 2026
 
-TypeScript    4 hrs 25 mins         ███████░░░░░░░░░░░░░░░░░░   27.39 %
-Other         3 hrs                 ████▓░░░░░░░░░░░░░░░░░░░░   18.63 %
-Python        2 hrs 39 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.43 %
-YAML          36 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
-JavaScript    35 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
-JSON          32 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
-CSS           20 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
+TypeScript    3 hrs 54 mins         ██████░░░░░░░░░░░░░░░░░░░   23.73 %
+Python        2 hrs 20 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.22 %
+JavaScript    2 hrs 13 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.45 %
+JSON          55 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
+Other         37 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
+YAML          22 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
+Image (svg)   13 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
 ```
 
 <!--END_SECTION:waka-->
