@@ -17,6 +17,7 @@ and product-minded development.
   ·
   <a href="#connect">Connect</a>
 </p>
+BLOG：https://panda-blog.com/
 
 <br clear="right"/>
 
