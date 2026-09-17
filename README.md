@@ -59,15 +59,14 @@ BLOG：https://panda-blog.com/
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 September 2026 - To: 16 September 2026
+From: 10 September 2026 - To: 17 September 2026
 
-JavaScript   2 hrs 50 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.84 %
-JSON         2 hrs 38 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.28 %
-Python       1 hr 48 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.59 %
-HTML         38 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
-TypeScript   31 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
-C++          4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
-Git Config   2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+Python       1 hr 30 mins          ██████▓░░░░░░░░░░░░░░░░░░   27.08 %
+JSON         1 hr 25 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.72 %
+JavaScript   1 hr 3 mins           ████▓░░░░░░░░░░░░░░░░░░░░   19.14 %
+TypeScript   11 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
+Other        9 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
+Git Config   2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
 ```
 
 <!--END_SECTION:waka-->
