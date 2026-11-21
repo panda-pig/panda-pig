@@ -59,13 +59,13 @@ BLOG：https://panda-blog.com/
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 November 2026 - To: 20 November 2026
+From: 14 November 2026 - To: 21 November 2026
 
-Other        21 hrs 11 mins        ███████████████████▓░░░░░   79.09 %
-JSON         3 hrs 9 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.78 %
-Python       59 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
-JavaScript   50 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
-TypeScript   37 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+Other        19 hrs 11 mins        ██████████████████████░░░   88.44 %
+JSON         1 hr 33 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 %
+TypeScript   30 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
+Python       21 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+JavaScript   5 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 ```
 
 <!--END_SECTION:waka-->
