@@ -59,11 +59,11 @@ BLOG：https://panda-blog.com/
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 November 2026 - To: 25 November 2026
+From: 19 November 2026 - To: 26 November 2026
 
-Other        19 hrs 29 mins        ████████████████████████▒   97.51 %
-TypeScript   20 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
-JavaScript   9 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+Other        15 hrs 42 mins        ████████████████████████▒   97.13 %
+TypeScript   18 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
+JavaScript   9 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
 ```
 
 <!--END_SECTION:waka-->
